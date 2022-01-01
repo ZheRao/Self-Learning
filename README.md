@@ -1,2 +1,2 @@
 # Self-Learning
-This is to backup my study notes/important readings from books
+This is to backup the important readings from books or transcripts from lectures
